@@ -3,4 +3,5 @@ Developed a machine learning model to detect Autism Spectrum Disorder (ASD), aid
 Duration: 5 Months(Jan 2023-May 2023)
 Language Used: Python
 Technology Used: Machine Learning
-
+Platform: Jupyter Notebook
+No Framework
